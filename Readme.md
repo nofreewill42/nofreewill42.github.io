@@ -17,3 +17,12 @@ Quiero viajar también y aprender muchos idiomas.
 Por eso quiero tener una caravana y en ella, además, podría tener un pequeño laboratorio también por poder vivir más tiempo en un lugar.
 
 Aunque no tengo ni casa ni caravana, tal vez podría empezar instalando el laboratorio en la casa de mis padres. Quiero tener un lugar en Budapest también a donde podría ir a socializar, por ejemplo en la oficina o ir a escalar en boulder y tal. Y quiero viajar también.
+
+---
+
+1. Propia casa
+2. Caravana
+3. Laboratorio
+
+---
+
